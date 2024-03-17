@@ -46,7 +46,7 @@ body {
 .btn-primary:hover {
     border-color: #9747ff;
     color: #9747ff;
-    background-color: white;
+    background-color: rgba(0, 0, 0, 0);
 }
 
 .header-section {
