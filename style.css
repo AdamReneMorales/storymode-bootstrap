@@ -1,0 +1,81 @@
+body {
+    font-family: "Albert Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.logo-img {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.link-primary {
+    color: #ef0606 !important;
+}
+
+.link-primary:hover {
+    color: #9747ff !important;
+}
+
+.link-secondary {
+    color: #9747ff !important;
+}
+
+.link-secondary:hover {
+    color: #ef0606 !important;
+}
+
+.btn-outline-primary {
+    border-color: #9747ff;
+    color: #9747ff;
+}
+
+.btn-outline-primary:hover {
+    background-color: #ffde59;
+    border-color: #ef0606;
+    color:#ef0606;
+}
+
+.btn-primary {
+    background-color: #ffde59;
+    border-color: #ef0606;
+    color:#ef0606
+}
+
+.btn-primary:hover {
+    border-color: #9747ff;
+    color: #9747ff;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.header-section {
+    border-top: solid #9747ff;
+    border-bottom: solid #9747ff !important;
+}
+
+.body-section {
+    background-color: #ffde59;
+    border-top: solid #9747ff;
+    border-bottom: solid #9747ff;
+
+}
+
+span {
+    color: #ef0606;
+}
+
+.icon-square {
+    height:30%;
+    width: 10%;
+    border-radius: 20%;
+    background-color: #ef0606 !important;
+}
+
+.icon-img {
+    height: 50%
+}
+
+.login-container {
+    margin-top: 10%;
+}
